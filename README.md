@@ -17,4 +17,4 @@ Your Own SmS BomBer...!!!
 
 # Note :-
 
-Only For India.!! (10 Spam Message Send 1 Time)
+Only For India.!!  
