@@ -1,5 +1,5 @@
 # SmS-BomB
-Your Own SmS BomBer...!!!
+Your Own SmS BomBer in Termux...!!!
 # Installation Steps..
 1) apt update && apt upgrade -y
 
