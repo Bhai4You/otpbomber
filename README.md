@@ -1,20 +1,39 @@
-# SmS-BomB
-Your Own SmS BomBer in Termux...!!!
-# Installation Steps..
-1) apt update && apt upgrade -y
+<h1 align="center">
+  <br>
+  <a href="https://dribbble.com/shots/6288649-The-JoyPixels-Bomb-Emoji-Animation/attachments/6288649-The-JoyPixels-Bomb-Emoji-Animation?mode=media"><img src="https://gifimage.net/wp-content/uploads/2018/11/konfettibombe-gif-4.gif" alt="Mr. Robot" width="300" height="300"></a>
+  <br>
+ OTP Bomber
+  <br>
+</h1>
 
-2) apt install git
+<h4 align="center"> 💣 Powerful OTP Bomber for Termux  💣</h4>
 
-3) git clone https://github.com/Bhai4You/SmS-BomB.git
+<p align="left">
+  
+</p>
 
-4) cd SmS-BomB
 
-5) chmod +x requirement.sh start.sh
+<be><br>
 
-6) bash requirement.sh
+## How To Install
 
-7) bash start.sh
+paste below command in termux and enter your victim number ;)
 
-# Note :-
+```
+pkg install python -y && 
+pip install otpbomber && 
+otpbomber
+```
 
-Only For India.!!  
+## Note :-
+```
+Only for Indian Number (+91)
+```
+
+
+## You may also like...
+
+- [Hackstore](https://sites.google.com/view/hackstoreapk) - A Hackstore Apk
+- [Bhai4You Blog](https://bhai4you.blogspot.com) - Bhai4you Blog
+
+
