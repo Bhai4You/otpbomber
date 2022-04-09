@@ -25,6 +25,15 @@ pip install otpbomber &&
 otpbomber
 ```
 
+Or
+
+```
+pkg install git -y &&
+git clone https://github.com/Bhai4You/SmS-BomB &&
+cd SmS-BomB &&
+bash smsbomb.sh
+```
+
 ## Note :-
 ```
 Only for Indian Number (+91)
