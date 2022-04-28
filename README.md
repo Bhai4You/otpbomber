@@ -14,6 +14,10 @@
 
 
 <be><br>
+### Note :
+```
+NOT working now, I will fix soon.
+```
 
 ## How To Install
 
