@@ -14,10 +14,8 @@
 
 
 <be><br>
-### Note :
-```
-NOT working now, I will fix soon.
-```
+
+
 
 ## How To Install
 
@@ -43,11 +41,9 @@ bash smsbomb.sh
 Only for Indian Number (+91)
 ```
 
-## Download App
-  <a href="https://bit.ly/termuxdetective"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux_detective.gif" alt="Termux Detective" width="900" height="60"></a>
-  <br>
 ## You may also like...
 
+- [Download Now](https://bit.ly/flashbomberlink) - Flash Bomber Apk
 - [Hackstore](https://sites.google.com/view/hackstoreapk) - A Hackstore Apk
 - [Bhai4You Blog](https://bhai4you.blogspot.com) - Bhai4you Blog
 
