@@ -41,21 +41,8 @@ bash smsbomb.sh
 Only for Indian Number (+91)
 ```
 
-## Termux Toolbox App (AD)
-<center><a href="https://bit.ly/44Co9ou"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux_toolbox_banner2.jpg" alt="Termux Toolbox"  ></a></center>
-<pre> 
-  Features :
-  - Cool UI
-  - Category Wise Tools
-  - Quick Linux Commands
-  - Basic to Advance Guide
-  - Powerful Termux Quiz
-  - AI Script Maker - Mr.Robot AI
-  - Programming Tutorials with Termux (included all language)
-  - 200+ Working Termux Tools
-  - Install any tool in termux with single commands.
-  - and much more..
-</pre>
+## Termux Apps (AD)
+<center><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxtutor"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-tutor.png" alt="Termux Tutor"  ></a><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxbannerx"> <img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-bannerx.png" alt="Termux BannerX"  ></a> <a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxthemestore"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-themes.png" alt="Termux Themes Store"  ></a></center>
 
 ## You may also like...
 
